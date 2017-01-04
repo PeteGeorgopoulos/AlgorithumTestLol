@@ -1,0 +1,4 @@
+# AlgorithumTestLol
+This was a test From Codility where basically for a given array, you have to figure wether each index has equalibrium, aka the numbers before it and after are equal. well I kinda haggared my way through because it was a speed challenge but this was the result.
+
+I believe you were meant to be able to enter an array to a method and then it was supposed to spit out which index of the array had equalibrium. unfortunately I got to the point where i could test for equality. I guess I could have made a new array and added whatever indices worked. If none worked, I believe the result should have been a -l or something. which any if else statement would suffice. If index.length ==0 or whatever but i stopped there. Any feedback about how I could have dont better would be appreciated.
